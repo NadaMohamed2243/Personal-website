@@ -1,0 +1,13 @@
+.bg-gradient-c {
+    /* background-color: linear-gradient(135deg, #4A00E0, #8E2DE2); */
+    background-image: linear-gradient(135deg, #1e30f3 0%, #e21e80 100%);
+    max-width: 100%;
+    font-size: 14px;
+  }
+  .bg-text-c {
+    background: -webkit-linear-gradient(270deg, #1e30f3 0%, #e21e80 100%);
+    background-clip: text;
+    color: transparent;
+    max-width: 100%;
+    font-size: 64px;
+  }
